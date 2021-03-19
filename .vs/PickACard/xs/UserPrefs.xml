@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D3848B85-37C6-4D27-920E-46F373DCD292}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PickACard/Pages/Index.razor">
+    <Files>
+      <File FileName="PickACard/CardPicker.cs" Line="14" Column="14" />
+      <File FileName="PickACard/Pages/Index.razor" Line="18" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PickACard" expanded="True">
+            <Node name="PickACard" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PickACard PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
