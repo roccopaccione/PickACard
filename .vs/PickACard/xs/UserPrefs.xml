@@ -1,24 +1,23 @@
 ﻿<Properties StartupConfiguration="{D3848B85-37C6-4D27-920E-46F373DCD292}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PickACard/Pages/Index.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PickACard/Shared/NavMenu.razor">
     <Files>
       <File FileName="PickACard/CardPicker.cs" Line="14" Column="14" />
-      <File FileName="PickACard/Pages/Index.razor" Line="18" Column="41" />
+      <File FileName="PickACard/Pages/Index.razor" Line="18" Column="20" />
+      <File FileName="PickACard/wwwroot/index.html" Line="9" Column="26" />
+      <File FileName="PickACard/Shared/NavMenu.razor" Line="4" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PickACard" expanded="True">
             <Node name="PickACard" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" selected="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
