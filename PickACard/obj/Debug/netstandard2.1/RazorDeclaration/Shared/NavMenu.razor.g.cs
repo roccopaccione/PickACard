@@ -83,7 +83,7 @@ using PickACard.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/Users/roccopaccione/Projects/PickACard/PickACard/Shared/NavMenu.razor"
+#line 18 "/Users/roccopaccione/Projects/PickACard/PickACard/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

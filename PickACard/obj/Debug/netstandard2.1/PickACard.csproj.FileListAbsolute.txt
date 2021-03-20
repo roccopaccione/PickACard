@@ -2,7 +2,6 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/PickACard.dll
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/PickACard.pdb
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/PickACard.dll
-/Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll
@@ -60,7 +59,6 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/PickACard.dll.gz
-/Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
@@ -155,12 +153,9 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.csproj.CoreCompileInputs.cache
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.RazorComponent.input.cache
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Counter.razor.g.cs
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.RazorComponent.output.cache
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/RazorDeclaration/PickACard.dll
@@ -168,15 +163,11 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.TagHelpers.output.cache
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.RazorCoreGenerate.cache
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/App.razor.g.cs
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/Pages/Counter.razor.g.cs
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/Pages/FetchData.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/blazor/unlinked.output
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
@@ -233,7 +224,6 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/blazor/blazor.boot.json
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/PickACard.dll.gz
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
@@ -291,7 +281,6 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/PickACard.dll.br
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.br
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.br
@@ -355,6 +344,6 @@
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.csproj.CopyComplete
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.dll
 /Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/PickACard.pdb
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/XDOWDa-n4-_Lmo3115pycwNN3VsYCU7D8YqiwdObR48=.hash
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/4A7aRZVzjunjis2Ej7xXsazwAjdjdXdvHddKxtw4AqE=.hash
-/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/rl8w3vaul1onvqMejg4RFyHyfAtpjitXpVnoufKA898=.hash
+/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/6O1rN2l0utwvpqRXEqKwryB-ZRaROJckYRqMu1DoC_M=.hash
+/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/yG0x32A5al3c1FEl-1SAKQ7bBXymzz2rBAAD6zJYhZY=.hash
+/Users/roccopaccione/Projects/PickACard/PickACard/obj/Debug/netstandard2.1/integrity/hYHGOB-_drFEahJI4X1jDwYm54daCA_fWnlhjOl3k5o=.hash
