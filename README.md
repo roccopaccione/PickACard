@@ -6,5 +6,6 @@
   <li>C#</li>
   <li>Blazer</li>
   <li>Bootstrap</li>
+ <li>.NET Core</li>
 </ul>
 
